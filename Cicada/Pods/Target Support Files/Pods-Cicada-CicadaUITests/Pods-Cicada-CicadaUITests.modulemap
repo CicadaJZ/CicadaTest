@@ -1,0 +1,6 @@
+framework module Pods_Cicada_CicadaUITests {
+  umbrella header "Pods-Cicada-CicadaUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
